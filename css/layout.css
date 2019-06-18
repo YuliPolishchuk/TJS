@@ -2302,3 +2302,8 @@ footer .fas.fa-sort-up:hover {
     font-size: 30px;
   }
 }
+@media screen and (max-width: 360px) {
+  #particles-js {
+    height: 90vh;
+  } 
+}
