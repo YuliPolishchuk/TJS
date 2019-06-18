@@ -2301,6 +2301,12 @@ footer .fas.fa-sort-up:hover {
   #events .carousel-title.big {
     font-size: 30px;
   }
+  #events h1  {
+    font-size: 50px;
+  }
+  #events p  {
+    font-size: 1.2rem;
+  }
 }
 @media screen and (max-width: 360px) {
   #particles-js {
