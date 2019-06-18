@@ -2200,11 +2200,13 @@ footer .fas.fa-sort-up:hover {
     .bg-color-sky-light {
       padding-top: 300px;
     }
+.home-info {
+    padding-top: 16%;}
     
     #c {
       top: 340px;
     }
-  }
+  
   @media screen and (max-width:1400px) {
     #footer-menu {
       display: flex;
