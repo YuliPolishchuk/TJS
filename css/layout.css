@@ -2258,7 +2258,7 @@ footer .fas.fa-sort-up:hover {
       font-size: 1.4rem;
     }
     .bg-color-sky-light {
-      padding-top: 70px;
+      padding-top: 100px;
     }
     #c {
       display: none;
@@ -2274,6 +2274,9 @@ footer .fas.fa-sort-up:hover {
 }
 .footer-list-item {
   padding: 4px 0;
+}
+.home-info {
+  padding-top: 17%;
 }
 .footer {
   height: 50vh;
