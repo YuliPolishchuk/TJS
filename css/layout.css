@@ -2293,10 +2293,10 @@ footer .fas.fa-sort-up:hover {
 }
 @media screen and (max-width: 420px) {
   #carousel-example-generic h1 {
-    padding-top: 130px;
+    padding-top: 110px;
   }
   #particles-js {
-    height: 75vh;
+    height: 73vh;
   } 
   #events .carousel-title.big {
     font-size: 30px;
